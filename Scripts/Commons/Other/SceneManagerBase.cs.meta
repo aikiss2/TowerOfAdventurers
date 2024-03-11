@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a5d68afea1a741942819a05cbbd9566f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - fadeoutPanelPrefab: {instanceID: 0}
+  - fadeinPanelPrefab: {instanceID: 0}
+  - canvas: {instanceID: 0}
+  - mainCamera: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - SceneChangeObject0
+  - SceneChangeObject1
+  - SceneChangeObject2
+  - SceneChangeObject3
+  - SceneChangeObject4
+  - MapChara
+  - MapObject
+  - MapDummy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - SolidObject
+  - Enemy
+  - Interact
+  - Player
+  - Fade
+  - DummyMapChara
+  - DummyMapPlayer
+  - DummyMapEnemy
+  - SceneChangeObject
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1777761715
+    locked: 0
+  - name: SolidObject
+    uniqueID: 1560855533
+    locked: 0
+  - name: Actor
+    uniqueID: 431573699
+    locked: 0
+  - name: UI
+    uniqueID: 2797712189
+    locked: 0
+  - name: PlayerStatus
+    uniqueID: 3828096997
+    locked: 0
+  - name: Fade
+    uniqueID: 1752254845
+    locked: 0
+  - name: TalkWindow
+    uniqueID: 2244611371
+    locked: 0

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 784c9fad9ce18e64babd2b522acc0f64
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bgmInBattle: {instanceID: 0}
+  - seAttack: {instanceID: 0}
+  - seRecovery: {instanceID: 0}
+  - sMoveCursor: {instanceID: 0}
+  - seButtonPush: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
